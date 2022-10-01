@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there 👋 I'm Ahmed Mahmoud BACHIRI.
 
-<!--
-**AMBachiri/AMBachiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m a Linux System Administrator fascinated by the DevOps aproach and interested in GitOps practices
+- 🌱 I’m helping my company to transition from the traditional way of developing and delivering software to an automated approach by implementing DevOps approach and using GitOps practices
+- 🤔 I like to learn from other people experiences and their expertise and I'd be happy to share my little knowledge with others.
+- :guitar: Tools, Languages, and technologies I use(d):
+  - Docker
+  - Linux (Ubunut, Debian), Bash
+  - Git
+  - Kubernetes
+  - ArgoCD
+  - Bitnami Sealed Secrets
+  - Mysql
+  - Apache, Nginx
+  - Zabbix
+  - GitLab CI/CD, GitHub Actions
+  - PHP
+- :trumpet:Tools and technologies I'm learning:
+  - Ansible
+  - Prometheus
+  - Grafana
+  - Python, Go
+  - HashiCorp Vault
+  - Terraform
+- :trophy: Achieved Certifications:
+  - AWS Certified Cloud Practitioner
+  - GitOps Certified - GitOps Fundamentals
+- :books: Preparing for Certifications:
+  - AWS Solution Architect Associate
+  - Linux Professional Institute LPIC-1
+  - HashiCorp Certified Vault Associate
+  - HashiCorp Certified Terraform Associate
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: bachiriahmedmahmoud@gmail.com
